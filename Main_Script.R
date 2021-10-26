@@ -6,3 +6,5 @@ c < a + b
 d <- c - a + b
 
 print("Hello World")
+
+print("Branch test")
